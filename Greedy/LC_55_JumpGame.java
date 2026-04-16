@@ -1,8 +1,7 @@
-class Solution {
+class LC_55_JumpGame {
     public boolean canJump(int[] nums) {
         int a = nums.length;
         int max = 0; 
-        int last = nums[a-1];
 
         for (int i = 0; i < a; i++) {
             if (i > max) return false;

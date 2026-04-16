@@ -1,7 +1,6 @@
-class Solution {
+class LC_45_JumpGameII {
     public int jump(int[] nums) {
         int n=nums.length;
-        int min=Integer.MAX_VALUE;
         int max=0;
         int count=0;
         int end=0;

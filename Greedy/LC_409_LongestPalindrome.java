@@ -1,4 +1,6 @@
-class Solution {
+import java.util.HashMap;
+
+class LC_409_LongestPalindrome {
     public int longestPalindrome(String s) {
         HashMap<Character,Integer> hash=new HashMap<>();
         int count=0;

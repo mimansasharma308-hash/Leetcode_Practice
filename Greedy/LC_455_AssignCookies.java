@@ -1,4 +1,6 @@
-class Solution {
+import java.util.Arrays;
+
+class LC_455_AssignCookies {
     public int findContentChildren(int[] g, int[] s) {
         int n=g.length;
         int m=s.length;

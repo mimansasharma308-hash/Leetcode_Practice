@@ -1,4 +1,4 @@
-class Solution {
+class LC_678ValidParenthesisString {
     public boolean checkValidString(String s) {
         int open=0;
         int maxopen=0;

@@ -1,4 +1,6 @@
-class Solution {
+import java.util.Arrays;
+
+class LC_561_ArrayPartition {
     public int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
         int i=0;

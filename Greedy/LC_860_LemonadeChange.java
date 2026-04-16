@@ -1,4 +1,4 @@
-class Solution {
+class LC_860_LemonadeChange {
     public boolean lemonadeChange(int[] bills) {
         int flag = 1;
         int five = 0, ten = 0;
