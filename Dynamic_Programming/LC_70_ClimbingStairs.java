@@ -1,4 +1,3 @@
-package Dynamic_Programming;
 import java.util.Arrays;
 class LC_70_ClimbingStairs {
     public int climbStairs(int n) {

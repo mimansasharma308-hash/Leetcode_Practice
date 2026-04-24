@@ -1,4 +1,5 @@
-class Solution {
+import java.util.Arrays;
+class LC_435_NonOverlappingIntervals {
     public int eraseOverlapIntervals(int[][] intervals) {
           Arrays.sort(intervals, (a, b) -> a[1] - b[1]);
 
