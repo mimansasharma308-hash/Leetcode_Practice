@@ -1,4 +1,6 @@
-class Solution {
+import java.util.ArrayList;
+import java.util.List;
+class LC_231_HouseRobberII {
     public int rob(int[] nums) {
         int n= nums.length;
         if(n==0) return 0;
