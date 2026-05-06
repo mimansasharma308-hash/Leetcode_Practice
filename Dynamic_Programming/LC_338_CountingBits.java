@@ -1,4 +1,5 @@
-class Solution {
+import java.util.Arrays;
+class LC_338_CountingBits {
     public int[] countBits(int n) {
         int dp[]=new int[n+1];
         Arrays.fill(dp,-1);
