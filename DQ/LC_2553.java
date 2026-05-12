@@ -1,4 +1,4 @@
-class Solution {
+class LC_2553 {
     public int[] separateDigits(int[] nums) {
         int n=nums.length;
         int d=0;
