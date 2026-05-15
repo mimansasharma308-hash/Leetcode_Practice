@@ -1,3 +1,5 @@
+import java.util.Arrays;
+import java.util.HashMap;
 class LC_2784 {
     public boolean isGood(int[] nums) {
 
