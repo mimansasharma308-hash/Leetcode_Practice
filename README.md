@@ -1,1 +1,117 @@
-# Leetcode_Practice
+# Leetcode Practice
+
+A structured collection of my LeetCode solutions organized topic-wise for interview preparation and problem-solving practice.
+
+---
+
+## Topics Covered
+
+Current topics included in this repository:
+
+- Arrays
+- Binary Search
+- Bit Manipulation
+- Divide and Conquer
+- Digits
+- Dynamic Programming
+- Greedy
+- Linked List
+- Random Problems
+- Recursion
+- Strings
+
+More topics and solutions will be added continuously as I progress in my DSA journey.
+
+---
+
+## Repository Structure
+
+```bash
+Leetcode_Practice/
+│
+├── Arrays/
+├── Binary_Search/
+├── Bit_Manipulation/
+├── DQ/
+├── Digits/
+├── Dynamic_Programming/
+├── Greedy/
+├── LinkedList/
+├── Random/
+├── Recursion/
+├── Strings/
+└── README.md
+```
+
+---
+
+## Language Used
+
+- Java
+
+---
+
+## Purpose
+
+This repository is maintained to:
+
+- Practice Data Structures and Algorithms
+- Prepare for coding interviews
+- Improve problem-solving ability
+- Track consistency and progress over time
+
+---
+
+## Features
+
+Solutions may include:
+
+- Brute Force Approach
+- Optimized Approach
+- Time Complexity Analysis
+- Space Complexity Analysis
+- Well-commented code for better understanding
+
+---
+
+## Platform
+
+Problems are primarily solved from:
+
+- LeetCode  
+  https://leetcode.com/u/Mimansa_6/
+
+---
+
+## Progress
+
+The repository is actively updated with new problems and topics regularly.
+
+Future topics that may be added:
+
+- Trees
+- Graphs
+- Heaps
+- Stack
+- Queue
+- Sliding Window
+- Backtracking
+- Tries
+- Segment Trees
+- Mathematical Algorithms
+- Competitive Programming Problems
+
+---
+
+## Author
+
+**Mimansa**
+
+- GitHub: https://github.com/mimansa05
+- LeetCode: https://leetcode.com/u/Mimansa_6/
+
+---
+
+## Contributions
+
+This repository is mainly for personal learning and practice, but suggestions and improvements are always appreciated.
